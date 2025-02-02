@@ -19,14 +19,14 @@ Hi, I'm a web app developer from Japan.🇯🇵
 ## 📈 Stats
 
 <p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamataBugFactory&layout=compact&show_icon=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KamataBugFactory&hide=issues,contribs&rank_icon=github&show_icons=true&include_all_commits=true" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamata-bug-factory&layout=compact&show_icon=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kamata-bug-factory&hide=issues,contribs&rank_icon=github&show_icons=true&include_all_commits=true" />
 </p>
 
 [![Articles](https://badgen.org/img/qiita/KamataBugFactory/articles?style=flat)](https://qiita.com/KamataBugFactory)
 
 <!--
-**KamataBugFactory/KamataBugFactory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kamata-bug-factory/kamata-bug-factory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
