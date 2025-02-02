@@ -4,7 +4,7 @@ Hi, I'm a web app developer from Japan.🇯🇵
 
 ## 🔨 Tech Stack
 
-### Programming Languages
+### Languages
 
 [![Langs](https://skillicons.dev/icons?i=ts,js,html,css,python,java,c,cpp,cs)](https://skillicons.dev)
 
