@@ -23,7 +23,7 @@ Hi, I'm a web app developer from Japan.🇯🇵
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kamata-bug-factory&hide=issues,contribs&rank_icon=github&show_icons=true&include_all_commits=true" />
 </p>
 
-[![Articles](https://badgen.org/img/qiita/KamataBugFactory/articles?style=flat)](https://qiita.com/KamataBugFactory)
+[![Articles](https://badgen.org/img/qiita/kamata-bug-factory/articles?style=flat)](https://qiita.com/kamata-bug-factory)
 
 <!--
 **kamata-bug-factory/kamata-bug-factory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
