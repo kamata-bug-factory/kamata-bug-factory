@@ -14,7 +14,7 @@ Hi, I'm a web app developer from Japan.🇯🇵
 
 ### Other Dev Tools
 
-[![Others](https://skillicons.dev/icons?i=git,github,docker,postgresql)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=git,github,aws,docker,postgresql)](https://skillicons.dev)
 
 ## 📈 Stats
 
