@@ -1,6 +1,7 @@
 ## 🐞 About Me
 
-Hi, I'm a web app developer from Japan.🇯🇵
+Web アプリを作るお仕事をしています。
+ときどき小中高生ともプログラミングします。
 
 ## 🔨 Tech Stack
 
