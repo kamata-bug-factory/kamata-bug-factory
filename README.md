@@ -5,28 +5,12 @@ Web アプリを作るお仕事をしています。
 
 バグを生まないコーディングを心掛けています ✊
 
-## 🔨 Tech Stack
+## <img src="./icon/qiita.png" width="22px"> Latest Blog Posts
 
-### Languages
+<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamata-bug-factory&layout=compact&show_icon=true" alt="Top Langs" /></p>
 
-[![Langs](https://skillicons.dev/icons?i=ts,js,html,css,python,java,c,cpp,cs)](https://skillicons.dev)
-
-### Libraries and Frameworks
-
-[![Frameworks](https://skillicons.dev/icons?i=angular,react,django,fastapi,spring)](https://skillicons.dev)
-
-### Other Dev Tools
-
-[![Others](https://skillicons.dev/icons?i=git,github,aws,docker,postgresql)](https://skillicons.dev)
-
-## 📈 Stats
-
-<p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamata-bug-factory&layout=compact&show_icon=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kamata-bug-factory&hide=issues,contribs&rank_icon=github&show_icons=true&include_all_commits=true" />
-</p>
-
-[![Articles](https://badgen.org/img/qiita/kamata-bug-factory/articles?style=flat)](https://qiita.com/kamata-bug-factory)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **kamata-bug-factory/kamata-bug-factory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
