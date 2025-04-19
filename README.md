@@ -1,10 +1,10 @@
-## 🐞 About Me
-
-Web アプリを作るお仕事をしています。ときどき小中高生ともプログラミングします。
-
 [![Articles](https://badgen.org/img/qiita/kamata-bug-factory/articles?style=flat-square)](https://qiita.com/kamata-bug-factory)
 [![Articles](https://badgen.org/img/zenn/kazuki_debugger/articles?style=flat-square)](https://zenn.dev/kazuki_debugger)
 [![Books](https://badgen.org/img/zenn/kazuki_debugger/books?style=flat-square)](https://zenn.dev/kazuki_debugger?tab=books)
+
+## 🐞 About Me
+
+Web アプリを作るお仕事をしています。ときどき小中高生ともプログラミングします。
 
 ## <img src="./icon/qiita.png" width="20px"> Latest Blog Posts
 
