@@ -11,7 +11,7 @@ Web アプリを作るお仕事をしています。ときどき小中高生と�
 [![Books](https://badgen.org/img/zenn/kazuki_debugger/books?style=flat-square)](https://zenn.dev/kazuki_debugger?tab=books)
 
 <!-- BLOG-POST-LIST:START -->
-- [記事にいいねをもらったら LINE に通知してささやかな喜びをつぶれるほど抱きしめる 🍒](https://qiita.com/kamata-bug-factory/items/d89772f3706b71b43825)
+- [【LINE bot】記事にいいねをもらったら LINE に通知してささやかな喜びをつぶれるほど抱きしめる 🍒](https://qiita.com/kamata-bug-factory/items/d89772f3706b71b43825)
 - [【Docker】ボリューム vs バインドマウント ⚔️](https://qiita.com/kamata-bug-factory/items/27a766ac43d78febc70b)
 - [Docker コマンドをまとめる 🐳](https://qiita.com/kamata-bug-factory/items/806deb3fc69ee254bca4)
 - [React × Supabase × Vercel で TODO アプリを作ってみた ③ ～ GitHub Actions で CI/CD 編～ 🤖](https://qiita.com/kamata-bug-factory/items/cb7dceacba1d0b58990b)
