@@ -9,6 +9,7 @@ Web アプリを作るお仕事をしています。ときどき小中高生と�
 [![Articles](https://badgen.org/img/qiita/kamata-bug-factory/articles?style=flat-square)](https://qiita.com/kamata-bug-factory)
 [![Articles](https://badgen.org/img/zenn/kazuki_debugger/articles?style=flat-square)](https://zenn.dev/kazuki_debugger)
 [![Books](https://badgen.org/img/zenn/kazuki_debugger/books?style=flat-square)](https://zenn.dev/kazuki_debugger?tab=books)
+[![Scraps](https://badgen.org/img/zenn/kazuki_debugger/scraps?style=flat-square)](https://zenn.dev/kazuki_debugger?tab=scraps)
 
 <!-- BLOG-POST-LIST:START -->
 - [【LINE bot】記事にいいねをもらったら LINE に通知してささやかな喜びをつぶれるほど抱きしめる 🍒](https://qiita.com/kamata-bug-factory/items/d89772f3706b71b43825)
