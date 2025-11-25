@@ -12,10 +12,10 @@ Web アプリを作るお仕事をしています。ときどき小中高生と�
 [![Scraps](https://badgen.org/img/zenn/kazuki_debugger/scraps?style=flat-square)](https://zenn.dev/kazuki_debugger?tab=scraps)
 
 <!-- BLOG-POST-LIST:START -->
+- [Husky でコミット時に自動でコードを整形しよう（モノリポ構成対応）](https://qiita.com/kamata-bug-factory/items/68cccefb12ed4b1bb81a)
 - [shadcn/ui 生成ファイルの ESLint エラーを回避する方法](https://qiita.com/kamata-bug-factory/items/4cae2ccd78b3ea7e8c8d)
 - [ESLint と Prettier を導入してフロントエンド開発を快適にする](https://qiita.com/kamata-bug-factory/items/4cd1e3cf6b54db08eddb)
 - [WebSocket でリアルタイム通信してみる](https://qiita.com/kamata-bug-factory/items/600b7fa1d48ffa90f297)
-- [関係データベースにおける集合論 🍇](https://qiita.com/kamata-bug-factory/items/6f030fcedb8be0bd6460)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
