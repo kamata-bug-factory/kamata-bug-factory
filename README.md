@@ -12,10 +12,10 @@ Web アプリを作るお仕事をしています。ときどき小中高生と�
 [![Scraps](https://badgen.org/img/zenn/kazuki_debugger/scraps?style=flat-square)](https://zenn.dev/kazuki_debugger?tab=scraps)
 
 <!-- BLOG-POST-LIST:START -->
+- [【Mac】Docker Desktop を使わずに Docker をインストールする](https://qiita.com/kamata-bug-factory/items/f3b669ab113fd5c91115)
 - [開発コンテナ内から git push したい！](https://qiita.com/kamata-bug-factory/items/65c34fdc9ad898cf5d60)
 - [プログラミングで広がる学び](https://qiita.com/kamata-bug-factory/items/74d34888507dfaab2d0f)
 - [Husky でコミット時に自動でコードを整形しよう（モノリポ構成対応）](https://qiita.com/kamata-bug-factory/items/68cccefb12ed4b1bb81a)
-- [shadcn/ui 生成ファイルの ESLint エラーを回避する方法](https://qiita.com/kamata-bug-factory/items/4cae2ccd78b3ea7e8c8d)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
