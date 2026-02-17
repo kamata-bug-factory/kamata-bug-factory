@@ -4,7 +4,7 @@ Web アプリを作るお仕事をしています。ときどき小中高生と�
 
 ## <img src="./icon/qiita.png" width="20px"> Latest Blog Posts
 
-<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamata-bug-factory&layout=compact&show_icon=true" alt="Top Langs" /></p>
+<p><img align="right" width="49%" src="https://my-github-readme-stats-kappa.vercel.app/api/top-langs/?username=kamata-bug-factory&layout=compact&show_icon=true" alt="Top Langs" /></p>
 
 [![Articles](https://badgen.org/img/qiita/kamata-bug-factory/articles?style=flat-square)](https://qiita.com/kamata-bug-factory)
 [![Articles](https://badgen.org/img/zenn/kazuki_debugger/articles?style=flat-square)](https://zenn.dev/kazuki_debugger)
