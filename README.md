@@ -2,6 +2,10 @@
 
 Web アプリを作るお仕事をしています。ときどき小中高生ともプログラミングします。
 
+## 📈 Most Used Languages
+
+![Top Langs](https://my-github-readme-stats-kappa.vercel.app/api/top-langs/?username=kamata-bug-factory&hide_title=true&layout=compact&show_icon=true)
+
 ## <img src="./icon/qiita.png" width="20px"> Latest Blog Posts
 
 [![Articles](https://badgen.org/img/qiita/kamata-bug-factory/articles?style=flat-square)](https://qiita.com/kamata-bug-factory)
@@ -15,10 +19,6 @@ Web アプリを作るお仕事をしています。ときどき小中高生と�
 - [プログラミングで広がる学び](https://qiita.com/kamata-bug-factory/items/74d34888507dfaab2d0f)
 - [Husky でコミット時に自動でコードを整形しよう（モノリポ構成対応）](https://qiita.com/kamata-bug-factory/items/68cccefb12ed4b1bb81a)
 <!-- BLOG-POST-LIST:END -->
-
-## 📈 Most Used Languages
-
-![Top Langs](https://my-github-readme-stats-kappa.vercel.app/api/top-langs/?username=kamata-bug-factory&hide_title=true&layout=compact&show_icon=true)
 
 <!--
 **kamata-bug-factory/kamata-bug-factory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
