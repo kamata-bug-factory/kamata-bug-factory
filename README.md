@@ -2,7 +2,7 @@
 
 Web アプリを作るお仕事をしています。ときどき小中高生ともプログラミングします。
 
-## 📈 Most Used Languages
+## 👨‍💻 Most Used Languages
 
 ![Top Langs](https://my-github-readme-stats-kappa.vercel.app/api/top-langs/?username=kamata-bug-factory&hide_title=true&layout=compact&show_icon=true)
 
