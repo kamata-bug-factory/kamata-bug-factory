@@ -4,8 +4,6 @@ Web アプリを作るお仕事をしています。ときどき小中高生と�
 
 ## <img src="./icon/qiita.png" width="20px"> Latest Blog Posts
 
-<p><img align="right" width="49%" src="https://my-github-readme-stats-kappa.vercel.app/api/top-langs/?username=kamata-bug-factory&layout=compact&show_icon=true" alt="Top Langs" /></p>
-
 [![Articles](https://badgen.org/img/qiita/kamata-bug-factory/articles?style=flat-square)](https://qiita.com/kamata-bug-factory)
 [![Articles](https://badgen.org/img/zenn/kazuki_debugger/articles?style=flat-square)](https://zenn.dev/kazuki_debugger)
 [![Books](https://badgen.org/img/zenn/kazuki_debugger/books?style=flat-square)](https://zenn.dev/kazuki_debugger?tab=books)
@@ -17,6 +15,10 @@ Web アプリを作るお仕事をしています。ときどき小中高生と�
 - [プログラミングで広がる学び](https://qiita.com/kamata-bug-factory/items/74d34888507dfaab2d0f)
 - [Husky でコミット時に自動でコードを整形しよう（モノリポ構成対応）](https://qiita.com/kamata-bug-factory/items/68cccefb12ed4b1bb81a)
 <!-- BLOG-POST-LIST:END -->
+
+## 📈 Most Used Languages
+
+![Top Langs](https://my-github-readme-stats-kappa.vercel.app/api/top-langs/?username=kamata-bug-factory&hide_title=true&layout=compact&show_icon=true)
 
 <!--
 **kamata-bug-factory/kamata-bug-factory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
