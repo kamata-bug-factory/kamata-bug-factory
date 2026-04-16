@@ -1,14 +1,18 @@
-## 🐞 About Me
+## Kazuki Kamata
 
-Web アプリを作るお仕事をしています。ときどき小中高生ともプログラミングします。
+Software Engineer
 
-## 👨‍💻 Most Used Languages
+### Tech Stack
 
-![Top Langs](https://my-github-readme-stats-kappa.vercel.app/api/top-langs/?username=kamata-bug-factory&hide_title=true&layout=compact&show_icon=true)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-## <img src="./icon/qiita.png" width="20px"> Latest Blog Posts
+### Certifications
 
-[![Articles](https://badgen.org/img/qiita/kamata-bug-factory/articles?style=flat-square)](https://qiita.com/kamata-bug-factory)
-[![Articles](https://badgen.org/img/zenn/kazuki_debugger/articles?style=flat-square)](https://zenn.dev/kazuki_debugger)
-[![Books](https://badgen.org/img/zenn/kazuki_debugger/books?style=flat-square)](https://zenn.dev/kazuki_debugger?tab=books)
-[![Scraps](https://badgen.org/img/zenn/kazuki_debugger/scraps?style=flat-square)](https://zenn.dev/kazuki_debugger?tab=scraps)
+WIP
+
+### Links
+
+[![Qiita](https://img.shields.io/badge/-Qiita-55C500?style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/kamata-bug-factory)
+[![Zenn](https://img.shields.io/badge/-Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://zenn.dev/kazuki_debugger)
