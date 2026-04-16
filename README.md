@@ -10,7 +10,7 @@ Software Engineer
 
 ### Certifications
 
-WIP
+<img src="img/aws-saa-badge.png" height="120" alt="AWS SAA">
 
 ### Links
 
